@@ -57,19 +57,19 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_KATAKURI_Tech.sendMessage(Pair_Code_By_KATAKURI_Tech.user.id, { text: '' + b64data });
 
                let KATAKURI_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃KATAKURI_MD SESSION IS 
-┃SUCCESSFULLY
-┃ARISED ✅
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = KATAKURI
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Squad = https://whatsapp.com/channel/0029Vaf5x0eHFxP7JvSRRn1g
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 https://wa.me/27747815326
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*_Pair Successful Arised🫴._*
+put the above ID in the sessID variable when deploying .
+Use this Session ID for all bots by KATAKURI.
+╔═════◇
+║       『••• KATAKURI•••』
+║ *Channel:* _https://whatsapp.com/channel/0029Vaf5x0eHFxP7JvSRRn1g_
+║ *Main Channel:* _https://whatsapp.com/channel/0029Vaf5x0eHFxP7JvSRRn1g_
+║ *Github:* _https://github.com/boru-to_
+║ *Owner:* _https://wa.me/27747815326_
+║ *Note :*_Do not provide your SESSION_ID to_
+║ _anyone otherwise that can access your WA messages_
+║ 
+╚════════════════════════╝
 *©ARISE!!!*
 
 _Don't Forget To Give Star To My Repo_`
